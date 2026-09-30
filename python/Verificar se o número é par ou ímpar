@@ -1,0 +1,6 @@
+ado = int(input("escreva um número\n"));
+if ado % 2 == 0:
+    print("numero par");
+    
+else:
+   print("numero impar");
